@@ -1,0 +1,11 @@
+img {
+    width: 500px;
+    height: 500px
+}
+body {
+    background-color: black;
+    
+}
+p, h1, h2{
+    color: aqua;
+}
