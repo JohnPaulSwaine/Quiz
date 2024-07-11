@@ -1,6 +1,6 @@
 img {
-    width: 500px;
-    height: 500px
+    width: 400px;
+    height: 400px
 }
 body {
     background-color: black;
@@ -9,3 +9,17 @@ body {
 p, h1, h2{
     color: aqua;
 }
+
+.questions {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+
