@@ -537,7 +537,7 @@ console.log("Incorrect")
 
 right18.addEventListener(`click`, ()=>{
 console.log("Correct")
-ball.style.color="aqua"
+ball.style.color = "aqua"
 right18.style.color="green"
 })
 wrong52.addEventListener(`click`, () =>{
